@@ -11,7 +11,7 @@
 - PGT student ([@UofG](https://www.gla.ac.uk/)), 2021-22, MS in Computing Science, pending good luck... 🤓
 
   ```Text
-  8-Dec-2021 11:27 - MS Project submitted for grading
+  8-Dec-2021 11:27 - MS Project submitted for grading =.=
   ```
 
 - Developer 👨‍💻
@@ -25,6 +25,7 @@
 
 - 📧: SteveJobz@isarvin.com / zjcarvin@outlook.com
 - WeChat: mock_teddy
+- Discord: IsArvin#8909
 
   > How dare you send a friend request without a message? 👮‍♂️
 

@@ -35,7 +35,7 @@
 ### In the works 🐌
 
 - [ ] Excert my power over LeetCode 🙃
-- [ ] Completely refactor Kobe (神户座)
+- [ ] Iterate Kobe (神户座)
 - [ ] Refactor [WeiboEmoji](https://github.com/ArvinZJC/WeiboEmoji)
 - [ ] Build [PY-SIC](https://github.com/ArvinZJC/PY-SIC)
 

@@ -15,7 +15,7 @@
   - Python, Java, C#, C++, JavaScript, Structured Query Language (SQL) ...
   - Vue.js 3, Electron, .NET, Android, Flutter, ...
 
-> Don't you know you're actually quite interested in me? Why not a look at [my personal site](https://isarvin.com/) for more info like education? 😜
+> Don't you know you're actually quite interested in me? Why not have a look at [my personal site](https://isarvin.com/) for more info like education? 😜
 
 ## How to contact me? 😉
 

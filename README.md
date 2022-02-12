@@ -9,18 +9,13 @@
 
 ## Who am I? 🤔
 
-- PGT student ([@UofG](https://www.gla.ac.uk/)), 2021-22, MS in Computing Science, pending good luck... 🤓
-
-  ```Text
-  8-Dec-2021 11:27 - MS Project submitted for grading =.=
-  ```
-
+- ~~Well-paid 9-5er 😎~~ (Oops, sorry! Just lost in a daydream. Maybe not?)
 - Developer 👨‍💻
   - Software Development Life Cycle (SDLC), web development, Machine Learning, ...
   - Python, Java, C#, C++, JavaScript, Structured Query Language (SQL) ...
   - Vue.js 3, Electron, .NET, Android, Flutter, ...
 
-> Don't you know you're actually quite interested in me? Have a look at [my personal site](https://isarvin.com/)! 😜
+> Don't you know you're actually quite interested in me? Why not a look at [my personal site](https://isarvin.com/) for more info like education? 😜
 
 ## How to contact me? 😉
 

@@ -9,7 +9,7 @@
 
 ## Who am I? 🤔
 
-- ~~Well-paid 9-5er 😎~~ (Oops, sorry! Just lost in a daydream. Maybe not?)
+- Well-paid 9-5er 😎 (Oops, sorry! Just lost in a daydream. Maybe not?)
 - Developer 👨‍💻
   - Software Development Life Cycle (SDLC), web development, Machine Learning, ...
   - Python, Java, C#, C++, JavaScript, Structured Query Language (SQL) ...
@@ -31,8 +31,6 @@
 
 - [ ] Excert my power over LeetCode 🙃
 - [ ] Iterate Kobe (神户座)
-- [ ] Refactor [WeiboEmoji](https://github.com/ArvinZJC/WeiboEmoji)
-- [ ] Build [PY-SIC](https://github.com/ArvinZJC/PY-SIC)
 
 ### Queuing 😴
 

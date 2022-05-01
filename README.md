@@ -11,9 +11,9 @@
 
 - Well-paid 9-5er 😎 (Oops, sorry! Just lost in a daydream. Maybe not?)
 - Developer 👨‍💻
-  - Software Development Life Cycle (SDLC), web development, Machine Learning, ...
-  - Python, Java, C#, C++, JavaScript, Structured Query Language (SQL) ...
-  - Vue.js 3, Electron, .NET, Android, Flutter, ...
+  - Machine Learning, Software Development Life Cycle (SDLC), web development, ...
+  - C#, C++, Java, JavaScript, Python, Structured Query Language (SQL), ...
+  - .NET, Android, Electron, Flutter, Vue.js 3, WinUI 3, ...
 
 > Don't you know you're actually quite interested in me? Why not have a look at [my personal site](https://isarvin.com/) for more info like education? 😜
 
@@ -29,13 +29,13 @@
 
 ### In the works 🐌
 
-- [ ] Excert my power over LeetCode 🙃
-- [ ] Iterate Kobe (神户座)
+- [ ] 📌 Excert my power over LeetCode 🙃
+- [ ] 📌 Maintain my active repositories 🤓
+- [ ] Build PaimonTray
 
 ### Queuing 😴
 
 - Build X Porter
-- Build Listen 1 for Android/iOS
 - ...
 
 ---

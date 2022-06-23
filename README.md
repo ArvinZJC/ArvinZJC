@@ -11,4 +11,4 @@ Who knows? Why not have a look at [my personal site](https://isarvin.com/)? 😜
 
   > How dare you send a friend request without a message? 👮‍♂️
 
-![Metrics](/my_metrics.svg)
+<img alt="Metrics" src="./my_metrics.svg" width="100%">

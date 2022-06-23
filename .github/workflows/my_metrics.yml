@@ -18,6 +18,7 @@ jobs:
 
           # Base content.
           base: metadata
+          commits_authoring: Arvin·趙, ArvinZJC, tomzjc@qq.com, zjcarvin@outlook.com
 
           # Core.
           committer_message: "chore: update metrics"

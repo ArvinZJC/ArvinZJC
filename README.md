@@ -1,5 +1,7 @@
 # Wotcha, mate! 👋
 
+Lovely to meet you! Follow me now, and let's become mutual friends!
+
 ## Who am I? 🤔
 
 Who knows? Why not have a look at [my personal site](https://isarvin.com/)? 😜
@@ -13,4 +15,4 @@ Who knows? Why not have a look at [my personal site](https://isarvin.com/)? 😜
 
 ## What's more? 🥸
 
-<img alt="Metrics" src="./my_metrics.svg" style="max-width: 800px" width="100%" />
+![Metrics](/my_metrics.svg)

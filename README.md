@@ -13,6 +13,6 @@ Who knows? Why not have a look at [my personal site](https://isarvin.com/)? 😜
 
   > How dare you send a friend request without a message? 👮‍♂️
 
-## What's more? 🥸
+## What's more? 😎
 
 ![Metrics](/my_metrics.svg)

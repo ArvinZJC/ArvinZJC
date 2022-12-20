@@ -26,6 +26,7 @@ jobs:
           config_timezone: Asia/Shanghai
           filename: my_metrics.*
           output_condition: data-changed
+          token: ${{ github.token }}
 
           # Languages activity.
           plugin_languages: yes

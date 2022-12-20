@@ -16,7 +16,6 @@ jobs:
         with:
           # Base content.
           base: metadata, repositories
-          # commits_authoring: Arvin·趙, ArvinZJC, tomzjc@qq.com, zjcarvin@outlook.com, SteveJobz@isarvin.com
           repositories_affiliations: ""
 
           # Core.

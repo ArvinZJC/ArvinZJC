@@ -35,9 +35,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: base
 
-          # Repositories traffic.
-          plugin_traffic: yes
-
           # Stargazers.
           # plugin_stargazers: yes
           # plugin_stargazers_charts: no

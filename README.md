@@ -1,19 +1,12 @@
-# Wotcha, mate! 👋
+# Hi there! 👋
 
-Lovely to meet you! Follow me now, and let's become mutual friends!
+I'm Arvin Zhao.
 
-## Who am I? 🤔
+## `whoami` and how to contact me? 🤔
 
-Who knows? Why not have a look at [my personal site](https://isarvin.com/)? 😜
+`IDUNNO`
 
-[![Website](https://img.shields.io/website?label=isarvin.com&url=https%3A%2F%2Fisarvin.com)](https://isarvin.com/)
-
-## How to contact me? 😉
-
-- 📧: SteveJobz@isarvin.com
-- Discord: IsArvin#8909
-
-  > How dare you send a friend request without a message? 👮‍♂️
+Why not have a look at [![Website](https://img.shields.io/website?label=isarvin.com&url=https%3A%2F%2Fisarvin.com)](https://isarvin.com/)? 😜
 
 ## What's more? 😎
 

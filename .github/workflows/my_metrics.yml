@@ -1,14 +1,16 @@
 name: Metrics
 on:
-  # Schedule daily updates.
-  schedule: [{ cron: "0 0 * * *" }]
-  # Run workflow manually.
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-  # Run workflow when pushing on main.
-  push: { branches: ["main"] }
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
       contents: write
     steps:
@@ -19,7 +21,7 @@ jobs:
           repositories_affiliations: ""
 
           # Core.
-          committer_message: "chore: update metrics"
+          committer_message: "docs: update metrics"
           # config_order: languages, stargazers
           config_output: svg
           config_timezone: Asia/Shanghai

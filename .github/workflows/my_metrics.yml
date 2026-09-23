@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: yuanweize/metrics-community@latest
         with:
           # Base content.
           base: metadata, repositories
